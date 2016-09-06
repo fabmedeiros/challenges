@@ -1,0 +1,1 @@
+Soluções para os problemas do [Project Euler](http://projecteuler.net/) em Python.
